@@ -1,4 +1,4 @@
-#!python3
+#! python3
 """Music test (music sample recognition) simulator"""
 
 from random import randint, sample, randrange
